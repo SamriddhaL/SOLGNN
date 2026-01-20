@@ -1,0 +1,7 @@
+*.pt
+esol/
+freesolv/
+*.png
+*jpeg
+*jpg
+.DS_Store
