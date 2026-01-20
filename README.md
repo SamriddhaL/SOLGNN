@@ -1,3 +1,7 @@
+# Introduction
+
+In this project, we attempt to predict molecular  using GNNs. The models presented here were developed by absolute beginners in the field of graph deep learning. As a result, they may contain errors, suboptimal design choices, or incomplete implementations. This work aims to document these beginner attempts, explore their behavior, and provide guidance for improvement. By analyzing the models and their predictions, we hope to build a foundation for better understanding GNNs and gradually improving model performance with more advanced techniques.
+
 # Installation Guide
 
 This guide will help you set up your development environment using UV, a fast Python package installer and resolver.
